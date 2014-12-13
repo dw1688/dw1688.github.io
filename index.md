@@ -18,17 +18,17 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">刷手刷单巨轻松</h2>
-  <p class="post-excerpt">软件自动华浏览，货比，收藏.<br />
-<a href="http://bourbon.io">详情</a>
-  </p>
-</div><!-- /.tile -->
-
-<div class="tile">
   <h2 class="post-title">商家放单巨省心</h2>
   <p class="post-excerpt">刷一单有时根本无需交流，完全输入些表情就可以完成。<br />
 同时放10个单也非常轻松。<br />
  <a href="http://bourbon.io">详情</a>
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">刷手刷单巨轻松</h2>
+  <p class="post-excerpt">软件自动华浏览，货比，收藏.<br />
+<a href="http://bourbon.io">详情</a>
   </p>
 </div><!-- /.tile -->
 
